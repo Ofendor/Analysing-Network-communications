@@ -17,7 +17,7 @@
 In this project, I used the information provided by a network protocol analyser to examine DNS and ICMP traffic, focusing on identifying potential security threats. By analysing IP addresses in the TCP/IP model, I gained valuable insight into suspicious data packets and learned how to detect and mitigate risks in a network traffic. 
 
 <p style="font-size: 12px; font-style: italic; color: #4a4a4a;">
-  The tasks showcased in these activities were provided by the Google Cybersecurity Professional Course 2024. All portfolio items represent fictional companies, IP addresses, websites, and emails, used strictly for educational purposes; and provided hands-on experience in real-world cybersecurity practices.  
+  All portfolio items represent fictional companies, IP addresses, websites, and emails, used strictly for educational purposes; and provided hands-on experience in real-world cybersecurity practices.  
 </p>
 
 <p style="color: #1e203b; font-size: 16px; font-weight: bold;">Activity Overview</p>

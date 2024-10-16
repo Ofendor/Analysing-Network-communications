@@ -1,6 +1,10 @@
 <a href="https://www.linkedin.com/in/emilio-mardones" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Badge" width="24" height="24" />
 </a>
+<a href="https://ofendor.github.io/mimard_profile.github.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Badge" width="24" height="24" />
+</a>
+
 <p style="color: #1e203b; font-size: 16px; font-weight: bold;">Analysing Network Communications</p>
 
 <pre><code style="color: #ff3f31;">Portfolio Activity 1 - DNS and ICMP Traffic Analysis</code></pre>

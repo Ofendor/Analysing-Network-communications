@@ -1,9 +1,9 @@
-<p style="color: #1e203b; font-weight: bold;">Analysing Network Communications.</p>
+<p style="color: #1e203b; font-size: 14px; font-weight: bold;">Analysing Network Communications</p>
 
 <pre><code style="color: #ff3f31;">Portfolio Activity 1 - DNS and ICMP Traffic Analysis</code></pre>
 The tasks showcased in these activities were provided by the Google Cybersecurity Professional Course 2024. All portfolio items represent fictional companies, IP addresses, websites, and emails, used strictly for educational purposes; and provided hands-on experience in real-world cybersecurity practices.  
 
-### Activity overview
+<p style="color: #1e203b; font-size: 14px; font-weight: bold;">Activity Overview</p>
 In this project, I used the information provided by a network protocol analyser to examine DNS and ICMP traffic, focusing on identifying potential security threats. By analysing IP addresses in the TCP/IP model, I gained valuable insight into suspicious data packets and learned how to detect and mitigate risks in a network traffic. 
 
 <p style="font-size: 12px; font-style: italic; color: #4a4a4a;">
@@ -19,4 +19,4 @@ In this project, I used the information provided by a network protocol analyser 
 <span style="color:#15d314;">13:28:50.022967</span> IP <span style="color:#ff3f31;">203.0.113.2</span> > <span style="color:#ff3f31;">192.51.100.15</span>: <span style="color:#fbd266;">ICMP</span> <span style="color:#ff3f31;">203.0.113.2</span> udp port 53 unreachable length 150
 </code></pre>
 
-### Key Takeaways
+<p style="color: #1e203b; font-size: 14px; font-weight: bold;">Key Takeaways</p>

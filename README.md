@@ -1,3 +1,5 @@
+<a href="https://www.linkedin.com/in/emilio-mardones" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Badge" width="24" height="24" />
 <p style="color: #1e203b; font-size: 14px; font-weight: bold;">Analysing Network Communications</p>
 
 <pre><code style="color: #ff3f31;">Portfolio Activity 1 - DNS and ICMP Traffic Analysis</code></pre>

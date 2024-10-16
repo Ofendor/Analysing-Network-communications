@@ -1,4 +1,5 @@
-### Analysing-Network-communications
+### Analysing Network communications.
+The jobs shocased in these activities were provided by Google Cybersecurity Professionals course 2024. All of these portfolio represent fictional companies, IP addreses, websites and emails, used for study purposes only. 
 
 ### Activity overview
 

@@ -7,13 +7,15 @@
 <a href="https://coursera.org/share/38ab1d68036cb56bc093082ab335d0c1" target="_blank">
   <img src="https://www.clipartmax.com/png/small/219-2197783_training-documents-google-logo-icon-png.png" alt="Training Documents - Google Logo Icon" width="24" height="24">
 </a>
+<a href="mailto:random@gmail.com" target="_blank">
+  <img src="https://www.clipartmax.com/png/small/31-316827_gmail-icon-gmail-icon.png" alt="Gmail Icon" width="24" height="24">
+</a>
 
 <p style="color: #1e203b; font-size: 16px; font-weight: bold;">Analysing Network Communications</p>
 
 <pre><code style="color: #ff3f31;">Portfolio Activity 1 - DNS and ICMP Traffic Analysis</code></pre>
 In this project, I used the information provided by a network protocol analyser to examine DNS and ICMP traffic, focusing on identifying potential security threats. By analysing IP addresses in the TCP/IP model, I gained valuable insight into suspicious data packets and learned how to detect and mitigate risks in a network traffic. 
 
-</a>
 <p style="font-size: 12px; font-style: italic; color: #4a4a4a;">
   The tasks showcased in these activities were provided by the Google Cybersecurity Professional Course 2024. All portfolio items represent fictional companies, IP addresses, websites, and emails, used strictly for educational purposes; and provided hands-on experience in real-world cybersecurity practices.  
 </p>

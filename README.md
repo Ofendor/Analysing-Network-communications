@@ -1,6 +1,6 @@
 <p style="color: #1e203b; font-weight: bold;">Analysing Network Communications.</p>
 
-<pre><code style="color: #ff3f31;">1 print(Portfolio Activity 1 - DNS and ICMP Traffic Analysis)</code></pre>
+<pre><code style="color: #ff3f31;">Portfolio Activity 1 - DNS and ICMP Traffic Analysis</code></pre>
 The tasks showcased in these activities were provided by the Google Cybersecurity Professional Course 2024. All portfolio items represent fictional companies, IP addresses, websites, and emails, used strictly for educational purposes; and provided hands-on experience in real-world cybersecurity practices.  
 
 ### Activity overview

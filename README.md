@@ -4,6 +4,9 @@
 <a href="https://ofendor.github.io/mimard_profile.github.io/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Badge" width="24" height="24" />
 </a>
+<a href="https://coursera.org/share/38ab1d68036cb56bc093082ab335d0c1" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Google_Logo.svg/1280px-Google_Logo.svg.png" alt="Google Badge" width="24" height="24" />
+</a>
 
 <p style="color: #1e203b; font-size: 16px; font-weight: bold;">Analysing Network Communications</p>
 

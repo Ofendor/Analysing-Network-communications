@@ -1,4 +1,6 @@
-### Analysing Network communications.
+<p style="color: #1e203b; font-weight: bold;">Analysing Network Communications.</p>
+
+<pre><code style="color: #ff3f31;">1 print(Portfolio Activity 1)</code></pre>
 The jobs shocased in these activities were provided by Google Cybersecurity Professionals course 2024. All of these portfolio represent fictional companies, IP addreses, websites and emails, used for study purposes only. 
 
 ### Activity overview

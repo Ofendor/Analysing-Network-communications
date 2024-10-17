@@ -54,12 +54,12 @@ I was tasked with analysing the situation and determine which network protocol w
 
 <p style="color: #1e203b; font-size: 16px; font-weight: bold;">Key Takeaways</p>
 
->>> **Network Traffic Analysis with tcpdump helped me to analyse and visualise DNS and ICMP traffic, making it easy to understand the issue that was affecting the network**
+> **Network Traffic Analysis with tcpdump helped me to analyse and visualise DNS and ICMP traffic, making it easy to understand the issue that was affecting the network**
 
->>> **The error returned by the ICMP protocol helped me to detect that the service was blocked, preventing the resolution of the domain plantbasedrecipes.com**
+> **The error returned by the ICMP protocol helped me to detect that the service was blocked, preventing the resolution of the domain plantbasedrecipes.com**
 
->>> **By analysing the tcpdump data packet I was able to engage in Real-Time Incident Response and identify a possible DoS attack or a misconfiguration in the firewall**
+> **By analysing the tcpdump data packet I was able to engage in Real-Time Incident Response and identify a possible DoS attack or a misconfiguration in the firewall**
 
->>> **Through this investigation, I enhanced my ability to diagnose network issues, provide clear reports to stakeholders, gained skills in protocol analysis, and learned how to handle DNS server errors in real-world scenarios**
+> **Through this investigation, I enhanced my ability to diagnose network issues, provide clear reports to stakeholders, gained skills in protocol analysis, and learned how to handle DNS server errors in real-world scenarios**
 
 

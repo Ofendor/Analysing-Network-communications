@@ -38,5 +38,6 @@ I was tasked with analysing the situation and determine which network protocol w
 <span style="color:#00ff9c;">13:28:50.022967</span> IP <span style="color:#ff2079;">203.0.113.2</span> > <span style="color:#ff2079;">192.51.100.15</span>: <span style="color:#fbff00;">ICMP</span> <span style="color:#ff2079;">203.0.113.2</span> udp port 53 unreachable length 150
 </code></pre>
 
+<p style="color: #1e203b; font-size: 16px; font-weight: bold;">Report</p>
 
 <p style="color: #1e203b; font-size: 16px; font-weight: bold;">Key Takeaways</p>

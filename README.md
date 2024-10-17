@@ -48,4 +48,5 @@ I was tasked with analysing the situation and determine which network protocol w
 |----------------------------------------------------|
 | The incident occurred today at 1:24 pm. Customers noticed the company that the webpage wasn’t accessible and was retrieving an error message: “destination port unreachable”. The cybersecurity team is currently investigating the issues so the clients can access the website again. During this investigation, I conducted a packet sniffing test using tcpdump. The resulting data log showed that DNS port 53 was unreachable. The next step is to identify whether the DNS server is down or traffic to port 53 is blocked by the firewall. My observation is that the DNS server might be down due to a successful DoS attack. Further investigation needs to be done to fix any misconfigurations.|
 
+
 <p style="color: #1e203b; font-size: 16px; font-weight: bold;">Key Takeaways</p>

@@ -40,6 +40,13 @@ I was tasked with analysing the situation and determine which network protocol w
 
 <p style="color: #1e203b; font-size: 16px; font-weight: bold;">Report</p>
 
+| **Summary of the problem found in the tcpdump log** | 
+|----------------------------------------------------|
+| As shown in the data log above, the UDP protocol contacted the DNS server to retrieve the IP address that hosts the domain name of `plantbasedrecipes.com`. The ICMP protocol was activated to send packets containing error messages, indicating issues contacting the DNS server. The ICMP error response from the DNS server was: “**udp port 53 unreachable**”. Since port 53 is associated with DNS protocol traffic, this indicates an issue with the DNS server. Issues with performing the DNS protocol are further visible because the plus sign after the query identification number `35084` shows flags with the UDP message, and the “**A?**” symbol indicates DNS protocol operations. For this reason, the ICMP error message about port 53 likely indicates that the DNS server was not responding.|
+
+
+
+
 
 
 <p style="color: #1e203b; font-size: 16px; font-weight: bold;">Key Takeaways</p>
